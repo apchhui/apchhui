@@ -29,8 +29,8 @@
 ---
 
 ## 🏆 GitHub Статистика:
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=apchhui&show_icons=true&theme=tokyonight)  
-![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=apchhui&layout=compact&theme=tokyonight)  
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=BaIbes&show_icons=true&theme=tokyonight)  
+![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=BaIbes&layout=compact&theme=tokyonight)  
 
 ---
 
