@@ -2,20 +2,20 @@
 
 ---
 
-# Привет! 👋
+# Hello! 👋
 
-Добро пожаловать в мой профиль GitHub! Меня зовут **apchhui**, и я — разработчик программного обеспечения. Создаю эффективные и высокопроизводительные решения.  
-
----
-
-## 🚀 О себе:
-- 💻 Занимаюсь разработкой на **C++** и другими языками программирования.  
-- 🛠️ Специализируюсь на **системах контроля** и разработке баз данных.  
-- 🌱 Постоянно изучаю новые технологии и подходы к разработке.  
+Welcome to my GitHub profile! I'm **apchhui**, a software dev who loves building high-performance and efficient solutions.  
 
 ---
 
-## 🔧 Мой стэк:
+## 🚀 About Me:
+- 💻 Mostly coding in **Python**, but I mess around with other languages too.  
+- 🛠️ Specializing in **control systems** and database development.  
+- 🌱 Always learning new tech and refining my craft.  
+
+---
+
+## 🔧 Tech Stack:
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -26,28 +26,29 @@
 
 ---
 
-## 📌 Избранные проекты:
-- **[CycleDB](https://github.com/apchhui/CycleDB)** — простая база данных, написанная на C++ для эффективного хранения данных.  
-- **[Website](https://github.com/apchhui/cycle-website)** - сайт, разработанный на фреймворке React.js с бэкэндом на Express.
+## 📌 Featured Projects:
+- **[CycleDB](https://github.com/apchhui/CycleDB)** — a simple C++ database for efficient data storage.  
+- **[Website](https://github.com/apchhui/cycle-website)** — a React.js-powered site with an Express.js backend.  
 
 ---
 
-## 🏆 GitHub Статистика:
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=apchhui&show_icons=true&theme=tokyonight)  
-![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=apchhui&layout=compact&theme=tokyonight)  
+## 🏆 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apchhui&show_icons=true&theme=tokyonight)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apchhui&layout=compact&theme=tokyonight)  
 
 ---
 
-## 💡 Чем я интересуюсь:
-- Системы контроля и автоматизации.
-- Создание высокопроизводительных программ на C++.
-- Участие в **open-source проектах**.  
+## 💡 What I'm Into:
+- Control systems & automation.  
+- Writing blazingly fast C++ code.  
+- Contributing to **open-source projects**.  
 
 ---
 
-## 📫 Контакты:
+## 📫 How to Reach Me:
 - **Telegram:** [@apchhu1](https://t.me/apchhu1)  
 
 ---
 
-Спасибо, что заглянули! 😊
+Thanks for stopping by! 😊
+****
