@@ -1,5 +1,6 @@
+---
 <img src="https://readme-typing-svg.demolab.com?font=monospace&size=24&duration=2000&color=FFFFFF&center=true&vCenter=true&width=200&height=30&lines=I+use+Arch+btw" />
-
+---
 
 # Привет! 👋
 
