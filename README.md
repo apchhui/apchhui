@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm **apchhui**, a software dev who loves building
 ---
 
 ## 📌 Featured Projects:
-- **[CycleDB](https://github.com/apchhui/CycleDB)** — a simple C++ database for efficient data storage.  
+- **[Flux](https://github.com/apchhui/Flux)** — a simple C++ database for efficient data storage.  
 - **[Website](https://github.com/apchhui/cycle-website)** — a React.js-powered site with an Express.js backend.  
 
 ---
