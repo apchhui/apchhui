@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm **apchhui**, a software dev who loves building
 
 ## 🚀 About Me:
 - 💻 Mostly coding in **Python**, but I mess around with other languages too.  
-- 🛠️ Specializing in **control systems** and database development.  
+- 🛠️ Specializing in **control systems** and **app** development.  
 - 🌱 Always learning new tech and refining my craft.  
 
 ---
