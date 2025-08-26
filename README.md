@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm **apchhui**, a software dev who loves building
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Rust]
+Rust
 ---
 
 ## 📌 Featured Projects:
