@@ -25,12 +25,6 @@ Welcome to my GitHub profile! I'm **apchhui**, a software dev who loves building
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ---
 
-## 📌 Featured Projects:
-- **[Flux](https://github.com/apchhui/Flux)** — a simple C++ database for efficient data storage.  
-- **[Website](https://github.com/apchhui/cycle-website)** — a React.js-powered site with an Express.js backend.  
-
----
-
 ## 🏆 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apchhui&show_icons=true&theme=tokyonight)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apchhui&layout=compact&theme=tokyonight)  
